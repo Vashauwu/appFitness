@@ -30,7 +30,7 @@ import {MatInputModule} from '@angular/material/input';
     MatToolbarModule,
     MatIconModule,
     MatButtonModule,
-    MatSidenavModule,
+    MatSidenavModule,   
     LandingPageModule,
     MatFormFieldModule,
     MatInputModule
